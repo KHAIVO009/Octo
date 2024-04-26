@@ -21,7 +21,7 @@ An Educational Messenger Bot Made with love aims to Help ppl for studies
 ## Admin Password (Default)
 located at index.html sa <script> tag 
 ```text
-rejardgwapodev69
+abdulsalano
 
 ```
 ## Live Demo
