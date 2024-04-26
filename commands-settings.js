@@ -1,9 +1,8 @@
 const { setCommandsSettings } = require('./system/main');
 
 setCommandsSettings({
-  prefix_list: ['*','-'],
-  owner_id: ["100012874754515",
-             "100092157610613"],
+  prefix_list: ['.','-'],
+  owner_id: ["100065182415314"],
   menu_command: ['menu', 'help','about'],
   menu_header: 'This Bot is made with Love And aims is to create something wierd that helps ppl on thier studies and many more and i love you Command List:',
   item_format: '\n🗨 (prefix)(name)',
